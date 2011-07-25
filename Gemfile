@@ -13,7 +13,7 @@ gem 'coffee-script'
 gem 'uglifier'
 
 gem 'jquery-rails'
-s
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
